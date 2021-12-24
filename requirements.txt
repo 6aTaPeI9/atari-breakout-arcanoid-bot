@@ -1,0 +1,6 @@
+python==3.7
+numpy==1.17.4
+opencv-python==4.5.4.60
+Pillow==6.1.0
+keyboard==0.13.5
+pywin32==303
